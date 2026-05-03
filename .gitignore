@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+
+# Testing
+jest-cache/
+
+# Optional: dotenv-safe or similar tools
+.env.example.backup
+
+# Debug
+debug.log
+
+# Docker (if not needed in repo)
+docker-compose.override.yml
+
+# Next.js / frontend (if monorepo)
+.next/
+
+# Optional: TypeScript build info
+*.tsbuildinfo
