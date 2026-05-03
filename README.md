@@ -1,3 +1,13 @@
+# Ed fixes for the FE task:
+- Cors errors 
+- Cookie set 
+- UI page for Add a notice 
+- env files (only local - change port 5000 -> 5007 for the correct API calls)
+- recorded a demo
+https://github.com/user-attachments/assets/3f6fe956-ee77-434d-91ed-771e357355f3
+
+
+
 # Database - Student Management System
 
 This directory contains the database schema and seed data for the Student Management System. The system uses PostgreSQL as the primary database with a comprehensive schema designed for educational institution management.
